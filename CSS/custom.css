@@ -1,0 +1,54 @@
+.texto{
+    font-family: Arial;
+    font-size: 14px;
+}
+.cabecalho{
+    text-align: center !important;
+}
+#imgVirtualIf{
+    margin: 5em 2em;
+}
+#hr{
+    color:#BBBBBB;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#corpo{
+    margin-top: 5em;
+}
+.labelCol2{
+    padding-top: 7px;
+    margin-bottom: 0px;
+    text-align: right;
+    font-weight: bold;
+
+}
+.inputsCol10{
+    font-size: 14px;
+    
+}
+#divLinks{
+    margin-bottom: 15px;
+
+}
+.links{
+    color: #337AB7;
+}
+.botao{
+    font-size: 14px;
+    background-color: #32A041; 
+    max-height: 200px;
+    max-width: 100px;
+}
+
+#rodape{
+    margin-top: 10em;
+
+}
+#colEsquerdaRodape{
+    margin-bottom: 2em;
+}
+#colDireitaRodape{
+    margin-bottom: 2em;
+}
